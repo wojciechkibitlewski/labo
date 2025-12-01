@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan:*)",
+      "Bash(./vendor/bin/sail artisan:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
